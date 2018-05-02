@@ -1,7 +1,7 @@
 {
-  "name": "search-index",
+  "name": "search-index-v10",
   "description": "A persistent full text search engine for the browser and Node.js",
-  "version": "0.15.0",
+  "version": "0.16.0",
   "homepage": "https://github.com/fergiemcdowall/search-index",
   "engines": {
     "node": ">=4"
@@ -42,7 +42,7 @@
     "written-number": "^0.5.0"
   },
   "optionalDependencies": {
-    "leveldown": "^1.7.0"
+    "leveldown": "^3.0.1"
   },
   "author": {
     "email": "fergusmcdowall@gmail.com",
@@ -93,6 +93,6 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/fergiemcdowall/search-index.git"
+    "url": "https://github.com/rpsoft/search-index-v10"
   }
 }
